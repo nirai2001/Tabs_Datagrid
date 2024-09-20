@@ -1,0 +1,9 @@
+.text-button {
+    background: none;
+    border: none;
+    color: inherit;
+    padding: 0;
+    font: inherit;
+    text-transform: none; /* Ensures no automatic text transformation */
+    cursor: pointer;
+}
